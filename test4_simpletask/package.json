@@ -1,0 +1,8 @@
+{
+  "name": "test4_simpletask",
+  "version": "0.1.0",
+  "description": "自定义task",
+  "devDependencies": {
+    "grunt": "^0.4.5"
+  }
+}
