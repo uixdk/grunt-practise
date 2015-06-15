@@ -1,0 +1,9 @@
+{
+  "name": "test8_concat",
+  "version": "0.1.0",
+  "description": "文件连接",
+  "dependencies": {
+    "grunt": "^0.4.5",
+    "grunt-contrib-concat": "^0.5.1"
+  }
+}

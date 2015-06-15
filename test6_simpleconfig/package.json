@@ -1,0 +1,8 @@
+{
+  "name": "test06_simple_config",
+  "version": "0.1.0",
+  "description": "自定义配置",
+  "dependencies": {
+    "grunt": "^0.4.5"
+  }
+}

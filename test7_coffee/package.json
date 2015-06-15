@@ -1,0 +1,9 @@
+{
+  "name": "test06_coffee",
+  "version": "0.1.0",
+  "description": "coffee编译示例",
+  "dependencies": {
+    "grunt": "^0.4.5",
+    "grunt-contrib-coffee": "^0.13.0"
+  }
+}
